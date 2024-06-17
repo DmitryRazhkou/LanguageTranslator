@@ -1,0 +1,12 @@
+.langButton {
+  background-color: #f0f0f0;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.langButton.selected {
+  background-color: #add8e6;
+}
